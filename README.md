@@ -37,4 +37,7 @@ npm start
 * Use functions to dynamically update content (dates).
 * Render componenets.
 * Style components.
-*  
+* Props (properties for our components)
+* Mapping
+* Arrow Functions
+* 
